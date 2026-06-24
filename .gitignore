@@ -8,3 +8,5 @@ Containerfile
 __pycache__
 uv.lock
 justfile-tmp-*
+config.bat
+node_modules
